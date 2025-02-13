@@ -1,7 +1,3 @@
----
-layout: default
-title: Privacy Policy - Baby Sleep Sounds
----
 
 # Privacy Policy
 *Last updated: February 13, 2024*
